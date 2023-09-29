@@ -1,5 +1,3 @@
-### Hi there 👋
+### Hi there my name is Roque 👋
 
-<!--
-**0xRoque/0xRoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🌱 I’m currently learning ... html 
+- 🌱 I’m currently learning ... Full Stack Dev. LET´S GO
