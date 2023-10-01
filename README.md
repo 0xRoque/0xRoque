@@ -5,8 +5,9 @@
 - 🐶 Addicted to my Dog
 - 🌃 I'm based in Lisbon
 - 🧑‍💻 I'm currently learning to code at Edit.
+- 🥋 Jiu-jitsu purple belt.
 - 🎮 I love CS and LoL
-- ☕️ I'm coffer.
+- ☕️ I can't get enough of coffee.
 
   
 [![Twitter Follow](https://img.shields.io/twitter/follow/rubenroque5?label=RubenRoque)](https://twitter.com/intent/follow?screen_name=rubenroque5)
