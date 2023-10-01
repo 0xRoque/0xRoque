@@ -6,7 +6,7 @@
 - 🌃 I'm based in Lisbon
 - 🧑‍💻 I'm currently learning to code at Edit.
 - 🥋 Jiu-jitsu purple belt.
-- 🎮 I love CS and LoL
+- 🎮 CS and LoL are my all-time favorites.
 - ☕️ I can't get enough of coffee.
 
   
