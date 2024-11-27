@@ -4,7 +4,7 @@
 
 - 🐶 Addicted to my Dog
 - 🌃 I'm based in Lisbon
-- 🧑‍💻 I'm currently learning to code at Edit.
+- 🧑‍💻 FullStack WebDeveloper.
 - 🥋 Jiu-jitsu purple belt.
 - 🎮 CS and LoL are my all-time favorites.
 - ☕️ I can't get enough of coffee.
