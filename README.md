@@ -5,6 +5,8 @@
 Junior full-stack developer based in Lisbon, looking for my first opportunity.
 I build web apps with JavaScript, Node.js and React — and I'm learning something new every week.
 
+🔗 **[See my portfolio →](https://rubenroque.netlify.app)**
+
 ---
 
 #### 🛠️ Tech I work with
